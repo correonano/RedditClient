@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reddit Client</string>
+
+    <string name="long_title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut bibendum mauris. Duis non rhoncus justo, ut condimentum velit. In hac habitasse platea dictumst. Aenean interdum lacus fermentum efficitur eleifend. Pellentesque egestas ipsum sit amet elit sodales bibendum. Vestibulum magna risus, sagittis vitae justo non, gravida iaculis est.</string>
+
+    <string name="submitted">Submitted %1$d hours ago by %2$s</string>
+    <string name="comments">%1$d comments</string>
+    <string name="error">error loading posts</string>
+    <string name="loading">Loading...</string>
+</resources>
